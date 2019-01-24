@@ -1,7 +1,7 @@
 package Model;
 
 /**
- * Utility inmutable class. 
+ * Utility immutable class. 
  * Represents time with whole ints (hours, minutes and seconds).
  * @author Álex
  */
